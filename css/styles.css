@@ -18,10 +18,7 @@ body{
   line-height: 1.8;
 }
 
-@font-face {
-      font-family: Harlow;
-      src: url('../fonts/Harlow Solid Italic.ttf');
-    }
+::-webkit-scrollbar {display:none;}
 
 img {
   display: block;
